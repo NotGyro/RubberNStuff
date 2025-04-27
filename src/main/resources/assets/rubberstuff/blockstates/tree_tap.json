@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "rubberstuff:block/tree_tap", "uvlock": true },
+        "facing=east":  { "model": "rubberstuff:block/tree_tap", "y":  90, "uvlock": true },
+        "facing=south": { "model": "rubberstuff:block/tree_tap", "y": 180, "uvlock": true },
+        "facing=west":  { "model": "rubberstuff:block/tree_tap", "y": 270, "uvlock": true }
+    }
+}
